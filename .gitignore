@@ -1,1 +1,15 @@
 .env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/
+.coverage
+htmlcov/
+chroma_db/
+*.zip
+.DS_store
+Thumbs.db
+.vscode/
