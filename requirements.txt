@@ -1,0 +1,6 @@
+ragas==0.3.9
+langchain_community==0.3.31
+langchain_ollama
+ollama
+pytest
+chromadb

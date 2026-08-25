@@ -1,0 +1,13 @@
+Travel Insurance Policy
+
+Baggage loss:
+The maximum compensation for lost baggage is 2000 euros.
+
+Delayed baggage:
+The maximum compensation for delayed baggage is 500 euros.
+
+Medical expenses:
+The maximum compensation for medical expenses is 10000 euros.
+
+Deductible:
+The standard deductible is 150 euros.

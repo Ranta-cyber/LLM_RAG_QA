@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Deductible",
+    "question": "What is the deductible",
+    "expected_answer": "150",
+    "expected_context": "deductible",
+    "should_answer": true
+  },
+  {
+    "name": "Baggage compensation",
+    "question": "How much can I get for my lost luggage?",
+    "expected_answer": "2000",
+    "expected_context": "lost baggage",
+    "should_answer": true
+  },
+  {
+    "name": "Medical expenses",
+    "question": "What is the maximum compensation for medical expenses?",
+    "expected_answer": "10000",
+    "expected_context": "medical expenses",
+    "should_answer": true
+  },
+  {
+    "name": "Unknow alien damage",
+    "question": "What is the compensation for damage caused by aliens?",
+    "expected_answer": "no information",
+    "expected_context": "",
+    "should_answer": false
+  },
+  {
+    "name": "Baggage compensation and deductible",
+    "question": "What is the compensation and deductible for lost luggage?",
+    "expected_answer": "2000",
+    "expected_context": "lost baggage",
+    "should_answer": true
+  }
+]
